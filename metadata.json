@@ -1,0 +1,6 @@
+{
+  "name": "Geometric Unification of Group Theory",
+  "description": "An interactive mathematical visualization of the Geometric Unification of Group Theory 'Big Cycle' in its perfect balance state, featuring a downloadable Zig math repository, simulation parameter injection, and interactive group generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
